@@ -11,5 +11,5 @@ L'accès à la base de données s'est fait sur WampServer64
 User : Root 
 
 
-MDP : ''
+MDP : '  '
 
