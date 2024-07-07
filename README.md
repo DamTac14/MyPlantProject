@@ -8,6 +8,6 @@ Le site est accessible à partir de : http://127.0.0.1:8000/plants
 
 L'accès à la base de données s'est fait sur WampServer64
 
-User : Root
+User : Root \n
 MDP : ''
 
