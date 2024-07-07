@@ -1,7 +1,13 @@
-## PLANT PROJECT BY DAMIEN
+# PLANT PROJECT BY DAMIEN
 
-# Voici le projet Symfony 1 : le sujet choisi par moi-même sera sur les plantes.
+## Voici le projet Symfony 1 : le sujet choisi par moi-même sera sur les plantes.
 
-Le squelette SQL est disponible parmis les fichiers du dossier racine. 
+**Le squelette SQL est disponible parmis les fichiers du dossier racine.**
 
 Le site est accessible à partir de : http://127.0.0.1:8000/plants
+
+L'accès à la base de données s'est fait sur WampServer64
+
+User : Root
+MDP : ''
+
